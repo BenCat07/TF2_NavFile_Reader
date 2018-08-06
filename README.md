@@ -1,6 +1,7 @@
 TF2 NavFile Reader
 
 How to use:
+
 1.) Include CNavFile.h
 
 2.) Instantiate CNavFile, map name argument in 
